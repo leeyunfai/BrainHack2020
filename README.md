@@ -1,5 +1,4 @@
-# BrainHack2020
-DSTA BrainHack 2020 Today-I-Learned Hackathon: Computer Vision &amp; NLP Project
+# DSTA BrainHack 2020 Today-I-Learned Hackathon: Computer Vision &amp; NLP Project
 
 **Summary:**
 - Built a unique YOLO Convolutional Neural Network that achieved an IoU Score of 0.423 for Computer Vision segment of Hackathon
