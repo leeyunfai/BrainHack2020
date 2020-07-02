@@ -1,4 +1,4 @@
-# DSTA BrainHack 2020 Today-I-Learned Hackathon: 
+# DSTA BrainHack 2020 Today-I-Learned Hackathon
 ## Computer Vision &amp; NLP Project
 
 **Summary:**
